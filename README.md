@@ -8,3 +8,5 @@ npm i --save @fortawesome/react-fontawesome
 npm install react-typed --force 
 
 npm install react-particles-js --force
+
+npm i --save @fortawesome/free-brands-svg-icons
