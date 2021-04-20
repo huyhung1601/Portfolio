@@ -12,3 +12,5 @@ npm install react-particles-js --force
 npm i --save @fortawesome/free-brands-svg-icons
 
 npm install react-popupbox
+
+ npm i react-responsive-carousel
