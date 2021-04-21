@@ -14,3 +14,11 @@ npm i --save @fortawesome/free-brands-svg-icons
 npm install react-popupbox
 
  npm i react-responsive-carousel
+
+ npm i emailjs-com --save
+ npm i react-hook-form
+
+
+ npm i react-share
+
+ npm i react-scroll
